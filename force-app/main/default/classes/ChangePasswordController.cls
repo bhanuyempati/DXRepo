@@ -3,7 +3,6 @@
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
-	//doing some change
     public String newPassword {get; set;}
     public String verifyNewPassword {get; set;}        
     
