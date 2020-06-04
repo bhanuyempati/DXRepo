@@ -11,5 +11,6 @@ public with sharing class ChangePasswordController {
     }     
     
     //This is comment testing comments
+	//add
     public ChangePasswordController() {}
 }
