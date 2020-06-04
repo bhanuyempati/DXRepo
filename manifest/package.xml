@@ -3,6 +3,11 @@
     <version>48.0</version>
     <types>
         <members>ChangePasswordController</members>
+        <members>CommunitiesLandingController</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>ApexClassProfile</members>
+        <name>Profile</name>
     </types>
 </Package>
