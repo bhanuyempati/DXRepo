@@ -9,8 +9,8 @@ public with sharing class ChangePasswordController {
     public PageReference changePassword() {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
     }     
-    
-    //new comments-3sfas
+    //safaf
+    //new comments-3
     //This is comment testing comments
     public ChangePasswordController() {}
 }
