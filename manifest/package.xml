@@ -8,6 +8,7 @@
     </types>
     <types>
         <members>ARProfile1</members>
+        <members>Admin</members>
         <members>ApexClassProfile</members>
         <name>Profile</name>
     </types>
