@@ -7,12 +7,10 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>flow_8</members>
         <members>flow_9</members>
         <name>Flow</name>
     </types>
     <types>
-        <members>flow_8</members>
         <members>flow_9</members>
         <name>FlowDefinition</name>
     </types>
