@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>49.0</version>
     <types>
+        <members>A0</members>
         <members>ChangePasswordController</members>
         <members>CommunitiesLandingController</members>
         <name>ApexClass</name>
@@ -23,5 +23,9 @@
     <types>
         <members>SiteSamples1</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Test_Territory_Model.Test_Territory_Rule1</members>
+        <name>Territory2Rule</name>
     </types>
 </Package>
